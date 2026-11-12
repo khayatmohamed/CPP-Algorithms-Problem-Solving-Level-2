@@ -1,190 +1,99 @@
 # 💻 C++ Algorithms & Problem Solving – Level 2
 
-## Problems #01 to #50 – Solutions
+Welcome to my C++ problem-solving repository!
 
-### 📌 Overview
+This repository contains my solutions to **50 programming problems**, with each problem organized in its own folder, along with two programming projects.
 
-This repository contains my C++ solutions for the 50 programming problems from **Algorithms & Problem-Solving – Level 2**, presented by Dr. Mohammed Abu-Hadhoud on ProgrammingAdvices.
+## 📚 Problems
 
-The purpose of this course is to improve my logical thinking, strengthen my problem-solving abilities, and develop more advanced programming skills through practical exercises.
-
-Each problem is organized in its own folder to keep the solutions independent, organized, and easy to navigate.
-
-The course also includes two programming projects to apply the concepts learned throughout the exercises.
-
-## 📚 Course Information
-
-| Item | Description |
+| Folder | Problem |
 |---|---|
-| Course | Algorithms & Problem-Solving – Level 2 |
-| Instructor | Dr. Mohammed Abu-Hadhoud |
-| Platform | ProgrammingAdvices |
-| Programming Language | C++ |
-| Total Problems | 50 |
-| Programming Projects | 2 |
-| IDE | Microsoft Visual Studio |
-| Status | In Progress |
+| [Problem-01](Problem-01/) | #01 |
+| [Problem-02](Problem-02/) | #02 |
+| [Problem-03](Problem-03/) | #03 |
+| [Problem-04](Problem-04/) | #04 |
+| [Problem-05](Problem-05/) | #05 |
+| [Problem-06](Problem-06/) | #06 |
+| [Problem-07](Problem-07/) | #07 |
+| [Problem-08](Problem-08/) | #08 |
+| [Problem-09](Problem-09/) | #09 |
+| [Problem-10](Problem-10/) | #10 |
+| [Problem-11](Problem-11/) | #11 |
+| [Problem-12](Problem-12/) | #12 |
+| [Problem-13](Problem-13/) | #13 |
+| [Problem-14](Problem-14/) | #14 |
+| [Problem-15](Problem-15/) | #15 |
+| [Problem-16](Problem-16/) | #16 |
+| [Problem-17](Problem-17/) | #17 |
+| [Problem-18](Problem-18/) | #18 |
+| [Problem-19](Problem-19/) | #19 |
+| [Problem-20](Problem-20/) | #20 |
+| [Problem-21](Problem-21/) | #21 |
+| [Problem-22](Problem-22/) | #22 |
+| [Problem-23](Problem-23/) | #23 |
+| [Problem-24](Problem-24/) | #24 |
+| [Problem-25](Problem-25/) | #25 |
+| [Problem-26](Problem-26/) | #26 |
+| [Problem-27](Problem-27/) | #27 |
+| [Problem-28](Problem-28/) | #28 |
+| [Problem-29](Problem-29/) | #29 |
+| [Problem-30](Problem-30/) | #30 |
+| [Problem-31](Problem-31/) | #31 |
+| [Problem-32](Problem-32/) | #32 |
+| [Problem-33](Problem-33/) | #33 |
+| [Problem-34](Problem-34/) | #34 |
+| [Problem-35](Problem-35/) | #35 |
+| [Problem-36](Problem-36/) | #36 |
+| [Problem-37](Problem-37/) | #37 |
+| [Problem-38](Problem-38/) | #38 |
+| [Problem-39](Problem-39/) | #39 |
+| [Problem-40](Problem-40/) | #40 |
+| [Problem-41](Problem-41/) | #41 |
+| [Problem-42](Problem-42/) | #42 |
+| [Problem-43](Problem-43/) | #43 |
+| [Problem-44](Problem-44/) | #44 |
+| [Problem-45](Problem-45/) | #45 |
+| [Problem-46](Problem-46/) | #46 |
+| [Problem-47](Problem-47/) | #47 |
+| [Problem-48](Problem-48/) | #48 |
+| [Problem-49](Problem-49/) | #49 |
+| [Problem-50](Problem-50/) | #50 |
 
-**Course Link:** [ProgrammingAdvices – Level 2](https://programmingadvices.com/courses/1811531/lectures/41056828)
+## 📂 Projects
 
-## 📚 Solved Problems
-
-Each problem has its own folder and solution file.
-
-| Problem | Folder | Description |
-|---|---|---|
-| #01 | [Problem-01](Problem-01/) | Solution #01 |
-| #02 | [Problem-02](Problem-02/) | Solution #02 |
-| #03 | [Problem-03](Problem-03/) | Solution #03 |
-| #04 | [Problem-04](Problem-04/) | Solution #04 |
-| #05 | [Problem-05](Problem-05/) | Solution #05 |
-| #06 | [Problem-06](Problem-06/) | Solution #06 |
-| #07 | [Problem-07](Problem-07/) | Solution #07 |
-| #08 | [Problem-08](Problem-08/) | Solution #08 |
-| #09 | [Problem-09](Problem-09/) | Solution #09 |
-| #10 | [Problem-10](Problem-10/) | Solution #10 |
-| #11 | [Problem-11](Problem-11/) | Solution #11 |
-| #12 | [Problem-12](Problem-12/) | Solution #12 |
-| #13 | [Problem-13](Problem-13/) | Solution #13 |
-| #14 | [Problem-14](Problem-14/) | Solution #14 |
-| #15 | [Problem-15](Problem-15/) | Solution #15 |
-| #16 | [Problem-16](Problem-16/) | Solution #16 |
-| #17 | [Problem-17](Problem-17/) | Solution #17 |
-| #18 | [Problem-18](Problem-18/) | Solution #18 |
-| #19 | [Problem-19](Problem-19/) | Solution #19 |
-| #20 | [Problem-20](Problem-20/) | Solution #20 |
-| #21 | [Problem-21](Problem-21/) | Solution #21 |
-| #22 | [Problem-22](Problem-22/) | Solution #22 |
-| #23 | [Problem-23](Problem-23/) | Solution #23 |
-| #24 | [Problem-24](Problem-24/) | Solution #24 |
-| #25 | [Problem-25](Problem-25/) | Solution #25 |
-| #26 | [Problem-26](Problem-26/) | Solution #26 |
-| #27 | [Problem-27](Problem-27/) | Solution #27 |
-| #28 | [Problem-28](Problem-28/) | Solution #28 |
-| #29 | [Problem-29](Problem-29/) | Solution #29 |
-| #30 | [Problem-30](Problem-30/) | Solution #30 |
-| #31 | [Problem-31](Problem-31/) | Solution #31 |
-| #32 | [Problem-32](Problem-32/) | Solution #32 |
-| #33 | [Problem-33](Problem-33/) | Solution #33 |
-| #34 | [Problem-34](Problem-34/) | Solution #34 |
-| #35 | [Problem-35](Problem-35/) | Solution #35 |
-| #36 | [Problem-36](Problem-36/) | Solution #36 |
-| #37 | [Problem-37](Problem-37/) | Solution #37 |
-| #38 | [Problem-38](Problem-38/) | Solution #38 |
-| #39 | [Problem-39](Problem-39/) | Solution #39 |
-| #40 | [Problem-40](Problem-40/) | Solution #40 |
-| #41 | [Problem-41](Problem-41/) | Solution #41 |
-| #42 | [Problem-42](Problem-42/) | Solution #42 |
-| #43 | [Problem-43](Problem-43/) | Solution #43 |
-| #44 | [Problem-44](Problem-44/) | Solution #44 |
-| #45 | [Problem-45](Problem-45/) | Solution #45 |
-| #46 | [Problem-46](Problem-46/) | Solution #46 |
-| #47 | [Problem-47](Problem-47/) | Solution #47 |
-| #48 | [Problem-48](Problem-48/) | Solution #48 |
-| #49 | [Problem-49](Problem-49/) | Solution #49 |
-| #50 | [Problem-50](Problem-50/) | Solution #50 |
-
-## 📂 Project Structure
-
-```text
-CPP-Algorithms-Problem-Solving-Level-2/
-│
-├── Problem-01/
-│   └── Solution.cpp
-├── Problem-02/
-│   └── Solution.cpp
-├── Problem-03/
-│   └── Solution.cpp
-├── Problem-04/
-│   └── Solution.cpp
-├── Problem-05/
-│   └── Solution.cpp
-│
-├── Problem-06/
-│   └── Solution.cpp
-├── Problem-07/
-│   └── Solution.cpp
-├── Problem-08/
-│   └── Solution.cpp
-├── Problem-09/
-│   └── Solution.cpp
-├── Problem-10/
-│   └── Solution.cpp
-│
-├── ... 
-│
-├── Problem-46/
-│   └── Solution.cpp
-├── Problem-47/
-│   └── Solution.cpp
-├── Problem-48/
-│   └── Solution.cpp
-├── Problem-49/
-│   └── Solution.cpp
-├── Problem-50/
-│   └── Solution.cpp
-│
-├── Project-01/
-├── Project-02/
-│
-└── README.md
-```
-
-## 🎯 Learning Objectives
-
-Through these exercises, I aim to:
-
-- Improve logical and analytical thinking.
-- Develop advanced problem-solving techniques.
-- Write clean, reusable, and maintainable C++ code.
-- Practice functions and code organization.
-- Improve algorithmic thinking.
-- Understand different approaches to solving problems.
-- Analyze problems before writing code.
-- Practice debugging and fixing programming errors.
-- Apply programming concepts to practical projects.
-- Develop independence in solving programming challenges.
-
-## 🧠 Learning Methodology
-
-For each problem, I follow these steps:
-
-1. Understand the problem requirements.
-2. Analyze the problem and identify the necessary operations.
-3. Try to solve the problem independently.
-4. Write and test the C++ solution.
-5. Compare my approach with the course solution.
-6. Identify mistakes and understand alternative solutions.
-7. Improve code readability and organization.
+- [Project-01](Project-01/)
+- [Project-02](Project-02/)
 
 ## 🛠 Technologies
 
-- **Programming Language:** C++
-- **IDE:** Microsoft Visual Studio
-- **Compiler:** MSVC / GCC
-- **Version Control:** Git & GitHub
+- Language: C++
+- IDE: Visual Studio
+- Version Control: Git & GitHub
+
+## 🎯 Learning Objectives
+
+- Improve logical and analytical thinking
+- Develop advanced problem-solving skills
+- Practice functions and programming techniques
+- Improve code organization and readability
+- Understand different approaches to solving problems
+- Apply programming concepts to practical projects
 
 ## 🚀 How to Run
 
-1. Clone or download the repository.
-2. Open the desired `Solution.cpp` file in Microsoft Visual Studio.
-3. Compile the selected problem.
-4. Run the program.
-5. Test the solution with different inputs.
+1. Clone or download this repository.
+2. Open the desired `Solution.cpp` file in Visual Studio.
+3. Compile and run the program.
 
-**Note:** Each problem is independent and can be compiled and executed separately.
+## 📈 Progress
 
-## ✅ Progress
+- Total Problems: 50
+- Solved Problems: Update as you progress
+- Projects: 2
+- Level: Intermediate
 
-- **Total Problems:** 50
-- **Completed Problems:** Update as you progress.
-- **Programming Projects:** 2
-- **Completed Projects:** Update as you progress.
-- **Status:** In Progress
-- **Language:** C++
+## 📌 About
 
----
+This repository documents my progress in learning algorithms and problem solving with C++.
 
-Part of my **C++ Algorithms & Problem Solving** learning journey.
-
-My goal is to improve my programming skills through consistent practice, independent problem-solving, and real-world projects. 🚀
+I will continue updating the repository as I complete each problem and programming project.
