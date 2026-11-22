@@ -60,6 +60,3 @@ The program uses the following functions:
 - Language: C++
 - IDE: Visual Studio
 
-## 👨‍💻 Author
-
-Mohamed Khayat
