@@ -123,6 +123,7 @@ void GenerateKeys(int numberOfKeys)
 // ==================================================
 int main()
 {
+    srand((unsigned)time(NULL));
     int numberOfKeys = ReadPositiveNumber(
         "Please enter how many keys to generate? : "
     );
